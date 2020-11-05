@@ -1,5 +1,5 @@
 /*
-	Non-Recursive Segment Tree C++ Implementation
+	Recursive Segment Tree C++ Implementation
 */
 
 #include <bits/stdc++.h>
