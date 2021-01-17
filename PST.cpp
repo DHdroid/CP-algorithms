@@ -100,5 +100,6 @@ struct PST {
 PST pst = PST();
 int main() {
 	pst.init(MAX_NUM);
+	// must be initialized
 }
 // author: DHdroid
