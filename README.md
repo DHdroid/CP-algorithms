@@ -4,5 +4,6 @@
 - Recursive Segment Tree
 - SCC(Kosaraju)
 - LCA
-
+- Heavy Light Decomposition
+  
 **Implemented for Competitive Programming (ICPC, Codeforce, ...)**
