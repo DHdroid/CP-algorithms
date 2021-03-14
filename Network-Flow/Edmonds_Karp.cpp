@@ -7,9 +7,9 @@ struct EdmondsKarp {
  	struct Edge {
 		int start, end;
 		int capacity, flow;
-		Edge* duel;
+		Edge* dual;
 		Edge(int start, int end, int capacity, int flow): start(start), end(end), capacity(capacity), flow(flow){
-			duel = nullptr;
+			dual = nullptr;
 		}
 	};
 	vector<vector<Edge *>> lis; // source: 5000, sink: 5001
@@ -37,8 +37,8 @@ struct EdmondsKarp {
 
 	void AddEdge(int a, int b, int capacity) {
 		Edge *e1 = new Edge(a, b, capacity, 0), *e2 = new Edge(b, a, 0, 0);
-		e1->duel = e2;
-		e2->duel = e1;
+		e1->dual = e2;
+		e2->dual = e1;
 		lis[a].emplace_back(e1);
 		lis[b].emplace_back(e2);
 	}
@@ -60,7 +60,7 @@ struct EdmondsKarp {
 				for(int curr = T; curr!=S; curr=prev_node[curr]) {
 					auto edge = lis[prev_node[curr]][prev_edge[curr]];
 					edge->flow += min_flow;
-					edge->duel->flow -= min_flow;
+					edge->dual->flow -= min_flow;
 				}
 				return min_flow;
 			}
