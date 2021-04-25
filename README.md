@@ -7,5 +7,7 @@
 - Heavy Light Decomposition
 - Network Flow
   - Edmonds-Karp
+- String Matching
+  - Knuth–Morris–Pratt
   
 **Implemented for Competitive Programming (ICPC, Codeforce, ...)**
