@@ -15,4 +15,4 @@
   - Least Common Ancestor
 
   
-**Implemented for Competitive Programming (ICPC, Codeforce, ...)**
+**Implemented for Competitive Programming (ICPC, Codeforces, etc)**
