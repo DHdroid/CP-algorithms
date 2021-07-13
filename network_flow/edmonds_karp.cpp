@@ -12,11 +12,11 @@ struct EdmondsKarp {
 			dual = nullptr;
 		}
 	};
-	vector<vector<Edge *>> lis; // source: 5000, sink: 5001
+	vector<vector<Edge *>> lis;
 	vector<int> prev_node;
 	vector<int> prev_edge;
 	int n;
-	int S, T;
+	int S, T; // S: source, T: sink
 
 	EdmondsKarp(int num_nodes) {
 		n = num_nodes;

@@ -1,11 +1,15 @@
 # CP_Algorithms
 ### C++ implementation of ...
-- PST(Persistent Segment Tree)
-- Recursive Segment Tree
-- SCC(Kosaraju)
-- LCA
-- Heavy Light Decomposition
 - Network Flow
   - Edmonds-Karp
+- SCC
+  - Kosaraju
+- Segment Tree
+  - Segment Tree (with recursive implementation)
+  - Merge Sort Tree
+  - Persistent Segment Tree
+- Tree Algorithms
+  - Heavy Light Decomposition
+  - Least Common Ancestor
   
 **Implemented for Competitive Programming (ICPC, Codeforce, ...)**
