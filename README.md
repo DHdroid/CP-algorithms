@@ -1,4 +1,4 @@
-# CP_Algorithms
+# CP-algorithms
 ### C++ implementation of ...
 - Network Flow
   - Edmonds-Karp
