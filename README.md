@@ -1,4 +1,4 @@
-# CP_Algorithms
+# CP-algorithms
 ### C++ implementation of ...
 - Network Flow
   - Edmonds-Karp
@@ -15,4 +15,4 @@
   - Least Common Ancestor
 
   
-**Implemented for Competitive Programming (ICPC, Codeforce, ...)**
+**Implemented for Competitive Programming (ICPC, Codeforces, etc)**
