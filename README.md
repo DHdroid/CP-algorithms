@@ -1,5 +1,7 @@
 # CP-algorithms
 ### C++ implementation of ...
+- Fenwick Tree
+  - Fenwick Tree
 - Network Flow
   - Edmonds-Karp
 - SCC
