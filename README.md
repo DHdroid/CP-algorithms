@@ -1,5 +1,7 @@
 # CP-algorithms
 ### C++ implementation of ...
+- Convex Hull Algorithm
+  - Graham Scan
 - Fenwick Tree
   - Fenwick Tree
 - Network Flow
