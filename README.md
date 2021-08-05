@@ -1,7 +1,10 @@
 # CP-algorithms
-### C++ implementation of ...
+This repo contains C++ implementations of the following algorithms/data structures
 - Convex Hull Algorithm
   - Graham Scan
+- Dynamic Programming Tricks
+  - Dynamic Convex Hull Trick (not fully tested)
+  - LineContainer.h ([source](https://github.com/kth-competitive-programming/kactl/blob/main/content/data-structures/LineContainer.h))
 - Fenwick Tree
   - Fenwick Tree
 - Network Flow
