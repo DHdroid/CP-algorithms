@@ -1,5 +1,5 @@
 # CP-algorithms
-This repo contains C++ implementations of the following algorithms/data structures
+This repo contains C++ implementations of the following algorithms/data structures needed for competitive programming (ICPC, Codeforces, etc)
 - Convex Hull Algorithm
   - Graham Scan
 - Dynamic Programming Tricks
@@ -13,6 +13,7 @@ This repo contains C++ implementations of the following algorithms/data structur
   - Kosaraju
 - Segment Tree
   - Segment Tree (with recursive implementation)
+  - Segment Tree w/ Lazy Propagation
   - Merge Sort Tree
   - Persistent Segment Tree
 - String Matching
@@ -20,6 +21,3 @@ This repo contains C++ implementations of the following algorithms/data structur
 - Tree Algorithms
   - Heavy Light Decomposition
   - Least Common Ancestor
-
-  
-**Implemented for Competitive Programming (ICPC, Codeforces, etc)**
