@@ -1,5 +1,5 @@
 # CP-algorithms
-This repo contains C++ implementations of the following algorithms/data structures needed for competitive programming (ICPC, Codeforces, etc)
+This repo contains C++ implementations of the following algorithms/data structures which are useful for competitive programming contests(ICPC, Codeforces, etc).
 - Convex Hull Algorithm
   - Graham Scan
 - Dynamic Programming Tricks
