@@ -18,6 +18,7 @@ This repo contains C++ implementations of the following algorithms/data structur
   - Persistent Segment Tree
 - String Matching
   - Knuth–Morris–Pratt
+  - Manber-Myers(Suffix Array) + LCP Array
 - Tree Algorithms
   - Heavy Light Decomposition
   - Least Common Ancestor
