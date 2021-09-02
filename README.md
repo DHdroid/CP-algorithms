@@ -8,7 +8,8 @@ This repo contains C++ implementations of the following algorithms/data structur
 - Fenwick Tree
   - Fenwick Tree
 - Network Flow
-  - Edmonds-Karp
+  - Edmonds-Karp Algorithm
+  - Dinic's Algorithm
 - SCC
   - Kosaraju
 - Segment Tree
